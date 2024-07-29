@@ -30,3 +30,10 @@ Zabbix Network Monitoring Project
 
 
 
+
+## Resources
+Full Resource Files
+  - VMWare Workstation Player
+  - Windows 10 - Guest OS
+  - Linux Ubuntu - Guest OS
+  - Zabbix - Network Monitor
