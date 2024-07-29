@@ -13,6 +13,9 @@ This project involved setting up a comprehensive network monitoring system using
 - Windows 10 - Guest OS
 - Linux Ubuntu - Guest OS
 - Zabbix Appliance - Network Monitor
+<a href="https://github.com/user-attachments/assets/5b73ad30-ae1c-46b3-afe6-0b9cf2e9a7cf" target="_blank">
+  <img src="https://github.com/user-attachments/assets/5b73ad30-ae1c-46b3-afe6-0b9cf2e9a7cf" alt="image" width="400" />
+</a>
 
 ## Tools and Technologies
 - VMWare Workstation Player: Virtualization software used to create and manage the virtual machines.
