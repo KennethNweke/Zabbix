@@ -1,7 +1,7 @@
 # Zabbix Network Monitoring Project
 Zabbix Network Monitoring Project
 
-## Watch the video on youtube
+## Watch the video on youtube | [View on LinkedIn](https://www.linkedin.com/posts/kenneth-nweke-4a9456185_unlock-the-power-of-monitoring-with-zabbix-activity-7222518512160772097-0cDa?utm_source=share&utm_medium=member_desktop)
 [![Link to YouTube Video](https://img.youtube.com/vi/g3N7bcDuzYU/0.jpg)](https://www.youtube.com/watch?v=g3N7bcDuzYU)
 
 [View on LinkedIn](https://www.linkedin.com/posts/kenneth-nweke-4a9456185_unlock-the-power-of-monitoring-with-zabbix-activity-7222518512160772097-0cDa?utm_source=share&utm_medium=member_desktop)
