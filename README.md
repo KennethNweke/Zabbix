@@ -60,8 +60,8 @@ This project demonstrated the effective use of VMWare Workstation Player and Zab
 
 
 ## Resources
-Full Resource Files
+Full Resource List
   - VMWare Workstation Player - Hypervisor
-  - Windows 10 - Guest OS
+  - Windows 10 Eval - Guest OS
   - Linux Ubuntu - Guest OS
   - Zabbix - Network Monitor
