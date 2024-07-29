@@ -1,6 +1,38 @@
 # Zabbix Network Monitoring Project
 Zabbix Network Monitoring Project
 
+## Objective
+This project involved setting up a comprehensive network monitoring system using VMWare Workstation Player. The network, assigned the IP range 192.168.244.0/24, included multiple virtual machines running different operating systems, all monitored by a dedicated network monitoring tool.
+
+- To monitor network traffic across the virtual network.
+- To track the system uptime of each virtual machine.
+- To measure CPU utilization for each guest OS.
+
+## Setup and Configuration
+- IP Range: 192.168.244.0/24
+- Windows 10 - Guest OS
+- Linux Ubuntu - Guest OS
+- Zabbix Appliance - Network Monitor
+
+## Tools and Technologies
+VMWare Workstation Player: Virtualization software used to create and manage the virtual machines.
+Zabbix Appliance: Deployed as the primary network monitoring tool to gather and display data on network traffic, system uptime, and CPU utilization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
