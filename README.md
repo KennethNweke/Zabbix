@@ -22,20 +22,37 @@ This project involved setting up a comprehensive network monitoring system using
 - Zabbix Appliance: Deployed as the primary network monitoring tool to gather and display data on network traffic, system uptime, and CPU utilization.
 
 
+## Implementation Details
+Virtual Machine Setup:
+- Configured Windows 10 and Linux Ubuntu as guest operating systems within the VMWare Workstation Player.
+- Installed necessary software and tools on both guest OSes to facilitate monitoring and data collection.
+
+Zabbix Appliance Configuration:
+- Deployed the Zabbix Appliance within the same IP range.
+- Configured Zabbix to monitor and log network traffic, system uptime, and CPU utilization from both Windows 10 and Linux Ubuntu guest OSes.
+- Set up necessary agents on each guest OS to communicate with the Zabbix server.
+
+
+Monitoring and Data Collection:
+- Network Traffic: Monitored using Zabbix's built-in capabilities to track incoming and outgoing data packets.
+- System Uptime: Logged to ensure the virtual machines maintained high availability and stability.
+- CPU Utilization: Tracked to analyze the performance and resource usage of each guest OS.
 
 
 
+## Results
+- Successfully monitored network traffic within the 192.168.244.0/24 IP range.
+- System uptime and CPU utilization data collected and visualized using Zabbix, providing valuable insights into the performance and reliability of each virtual machine.
+
+## Conclusion
+This project demonstrated the effective use of VMWare Workstation Player and Zabbix Appliance to create a robust network monitoring setup. The system provided comprehensive data on network traffic, system uptime, and CPU utilization, aiding in the maintenance and optimization of virtual environments.
 
 
-
-
-
-
-
-
-
-
-
+## Skills Demonstrated
+- Virtualization with VMWare Workstation Player
+- Network monitoring and management
+- Configuration and deployment of Zabbix Appliance
+- Data analysis and visualization
 
 
 
