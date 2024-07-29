@@ -15,8 +15,8 @@ This project involved setting up a comprehensive network monitoring system using
 - Zabbix Appliance - Network Monitor
 
 ## Tools and Technologies
-VMWare Workstation Player: Virtualization software used to create and manage the virtual machines.
-Zabbix Appliance: Deployed as the primary network monitoring tool to gather and display data on network traffic, system uptime, and CPU utilization.
+- VMWare Workstation Player: Virtualization software used to create and manage the virtual machines.
+- Zabbix Appliance: Deployed as the primary network monitoring tool to gather and display data on network traffic, system uptime, and CPU utilization.
 
 
 
